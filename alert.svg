@@ -1,1 +1,5 @@
-<iframe srcdoc="&lt;svg onload=alert99&gt;"></iframe>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <iframe srcdoc="&lt;svg onload=alert(1)&gt;"></iframe>
+  </foreignObject>
+</svg>
